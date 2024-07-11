@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnnZen
-- 👀 I’m interested in Space Physics, Mathematics and Artificial Intelligence
-- 🌱 I’m currently learning Plasma Physics and Applied Mathematics
-- 💞️ I’m looking to collaborate on Space Physics and AI
-- 📫 How to reach me annazenonos@outlook.com
+- 👀 I’m interested in Deep learning , programming, remote sensing, forestry, estimation of carbon emissions, climate change,
+- I have been studied Space Physics, Mathematics and Artificial Intelligence
+- 💞️ I’m looking to collaborate on Forestry, AI, deep learning, Green house gases estimation and Space Physics
+- 📫 How to reach me a.zenonos@cyi.ac.cy or annazenonos@outlook.com
 
 <!---
 AnnZen/AnnZen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
